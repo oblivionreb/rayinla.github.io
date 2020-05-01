@@ -1,6 +1,6 @@
 {
-  "short_name": "Code JS",
-  "name": "How To Code JS",
+  "short_name": "Tax My Gig",
+  "name": "Tax My Gig",
   "icons": [
     {
       "src": "/images/hjslogosm.png",
@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://howtocodejs.com",
+  "start_url": "https://taxmygig.com",
   "background_color": "#fff",
   "display": "standalone",
   "scope": "{{site.url}}/variables",
